@@ -1,0 +1,12 @@
+C:\bad\sqlclr\sqlclr.nonsql\bin\Debug\sqlclr.nonsql.dll
+C:\bad\sqlclr\sqlclr.nonsql\bin\Debug\sqlclr.nonsql.pdb
+C:\bad\sqlclr\sqlclr.nonsql\obj\Debug\sqlclr.nonsql.csprojAssemblyReference.cache
+C:\bad\sqlclr\sqlclr.nonsql\obj\Debug\sqlclr.nonsql.csproj.CoreCompileInputs.cache
+C:\bad\sqlclr\sqlclr.nonsql\obj\Debug\sqlclr.nonsql.dll
+C:\bad\sqlclr\sqlclr.nonsql\obj\Debug\sqlclr.nonsql.pdb
+C:\Users\F100004195\Documents\bad\bad\sqlclr\sqlclr.nonsql\bin\Debug\sqlclr.nonsql.dll
+C:\Users\F100004195\Documents\bad\bad\sqlclr\sqlclr.nonsql\bin\Debug\sqlclr.nonsql.pdb
+C:\Users\F100004195\Documents\bad\bad\sqlclr\sqlclr.nonsql\obj\Debug\sqlclr.nonsql.csprojAssemblyReference.cache
+C:\Users\F100004195\Documents\bad\bad\sqlclr\sqlclr.nonsql\obj\Debug\sqlclr.nonsql.csproj.CoreCompileInputs.cache
+C:\Users\F100004195\Documents\bad\bad\sqlclr\sqlclr.nonsql\obj\Debug\sqlclr.nonsql.dll
+C:\Users\F100004195\Documents\bad\bad\sqlclr\sqlclr.nonsql\obj\Debug\sqlclr.nonsql.pdb
